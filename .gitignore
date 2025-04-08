@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.vscode/
+
+# Robot Framework output files
+log.html
+output.xml
+report.html
