@@ -4,7 +4,7 @@ Library    ai_lib.ai_lib.AILibrary
 
 *** Test Cases ***
 Ask GPT Example
-    ${response}=    Ask Gpt    What is the capital of France?
+    ${response}=    Ask Gpt    what is AI?
     Log    ${response}
 
 Classify Text Example
