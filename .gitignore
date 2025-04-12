@@ -5,6 +5,7 @@ __pycache__/
 dist/
 build/
 .vscode/
+*.log
 
 # Robot Framework output files
 log.html
